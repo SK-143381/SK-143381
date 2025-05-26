@@ -20,9 +20,25 @@ I'm a Graduate Research Assistant at (x)ability Design Lab passionate about Huma
 - **Frameworks/Tools**: React, TensorFlow, ML Frameworks, Jupyter Notebook, Git
 - **Research Areas**: Human-Computer Interaction, Data Visualization, Natural Language Processing
 
-## Most Used Languages
+## GitHub Stats & Activity
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SK-143381&show_icons=true&theme=light&locale=en&layout=compact" alt="SK-143381" /></p>
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=SK-143381&show_icons=true&locale=en" alt="SK-143381" />
+</p>
+
+<p>
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SK-143381&theme=github" />
+</p>
+
+## Organization Activity - (x)ability Design Lab
+
+<p>
+I've contributed to multiple research projects at the (x)ability Design Lab, focusing on creating accessible technologies:
+
+- 🧪 Led development of 3D visualization tools for accessible data representation
+- 🔍 Contributed to 3 repositories focused on accessibility in VR/AR experiences
+- 📝 Co-authored 4+ research papers on accessible technology design
+</p>
 
 ## Featured Projects
 
@@ -31,13 +47,19 @@ I'm a Graduate Research Assistant at (x)ability Design Lab passionate about Huma
 Research and development of novel accessible visualization techniques for complex datasets.
 [View Repository](https://github.com/xability/a11y_dashboard) | [Live Demo](https://xabilitylab.shinyapps.io/a11y_dashboard/)
 
-### 📱 [Accessibility-Focused Virtual Reality Applications](https://github.com/SK-143381/accessibility-apps)
+### 📱 Accessibility-Focused Virtual Reality Applications
+
+### 🔮 [3-D Data Visualization](https://github.com/xability/3d_viz)
 
 3-D Data Visualization and Natural Language Processing in Virtual Reality.
 [View Repository](https://github.com/xability/3d_viz)
 
+### 🥊 [VR Boxing Exergame](https://github.com/xability/a11y_vr_boxing_game)
+
 Creating VR Boxing Exergame with a focus on accessibility and inclusive design.
 [View Repository](https://github.com/xability/a11y_vr_boxing_game)
 
+### 🏓 [VR Table Tennis Game](https://github.com/xability/a11y_vr_exergame)
+
 Creating a VR Table Tennis Game for blind and low-vision users.
-[Live Demo](https://github.com/xability/a11y_vr_exergame)
+[View Repository](https://github.com/xability/a11y_vr_exergame) | [Research Paper](https://dl.acm.org/doi/pdf/10.1145/3663548.3688526)
