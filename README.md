@@ -14,7 +14,7 @@ I'm a Graduate Research Assistant at the (x)ability Design Lab dedicated to crea
 
 <p align="left">
 <a href="https://linkedin.com/in/sanchitakamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitakamath" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=YOUR_ID_HERE" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" /></a>
+<a href="https://scholar.google.com/citations?user=VIPF0M8AAAAJ&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" /></a>
 </p>
 
 ## Skills
