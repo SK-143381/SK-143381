@@ -21,7 +21,8 @@ I'm a Graduate Research Assistant at the (x)ability Design Lab dedicated to crea
 
 - **Languages**: Python, Java, JavaScript, HTML/CSS, SQL
 - **Frameworks/Tools**: React, TensorFlow, ML Frameworks, Jupyter Notebook, Git
-- **Research Areas**: Human-Computer Interaction, Data Visualization, Natural Language Processing
+- **Research Areas**: Human-Computer Interaction, Data Visualization, Virtual Reality
+- **Mixed Methods Research**
 
 ## Research & Development Activity
 
