@@ -31,10 +31,6 @@ My work spans both academic research and practical development, focusing on tech
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=SK-143381&show_icons=true&locale=en" alt="SK-143381" />
-</p>
-
-<p>
 <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SK-143381&theme=github" />
 </p>
 
