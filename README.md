@@ -2,6 +2,8 @@
 
 I'm a Graduate Research Assistant at the (x)ability Design Lab dedicated to creating inclusive technologies through research at the intersection of Human-Computer Interaction, Cognitive Science, and Data Visualization.
 
+I am actively seeking UX research, Multimodal XAI and Data Visualization internships for Summer of 2026.
+
 ## About Me
 <img src="https://github.com/user-attachments/assets/e06b5dc6-acde-4dc7-bc99-17f8f7595f67" alt="octocat" width="150"/>
 
