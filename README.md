@@ -4,6 +4,7 @@ I'm a Graduate Research Assistant at the (x)ability Design Lab dedicated to crea
 
 ## About Me
 <img src="https://github.com/user-attachments/assets/e06b5dc6-acde-4dc7-bc99-17f8f7595f67" alt="octocat" width="150"/>
+
 - 🔭 I'm developing accessible visualization tools that empower users with disabilities to interact with complex data
 - 🎓 As a Ph.D. candidate in Information Sciences at UIUC, I investigate how innovative interfaces can transform accessibility
 - 🌟 My research aims to bridge accessibility gaps in emerging technologies like AR/VR for education and data exploration
