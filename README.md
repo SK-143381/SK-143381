@@ -1,6 +1,6 @@
 # Hi! I'm Sanchita Kamath 👋
 
-I'm a Graduate Research Assistant at the (x)ability Design Lab dedicated to creating inclusive technologies through research at the intersection of Human-Computer Interaction, Cognitive Science, and Data Visualization.
+I'm a Doctoral Candidate and Graduate Research Assistant at the (x)ability Design Lab dedicated to creating inclusive technologies through research at the intersection of Human-Computer Interaction, Cognitive Science, and Data Visualization.
 
 I am actively seeking UX research, Multimodal XAI and Data Visualization internships for Summer of 2026.
 
