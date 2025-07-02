@@ -78,7 +78,7 @@ DIXTRAL: Dynamic Interface eXploration of Three-dimensional Representations for 
 
 [View Repository](https://github.com/xability/3d_viz)
 
-### [Virtual Reality Development]
+### 🥽 Virtual Reality Development
 
 #### PROJECT 4 (DEVELOPMENT COMPLETE):
 🥊 PunchPulse: Creating VR Boxing Exergame with a focus on accessibility and inclusive design.
