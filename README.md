@@ -61,25 +61,26 @@ I'm proud to contribute to multiple research projects at the (x)ability Design L
 </p>
 
 ## Featured Projects
+### 📱 Developed Applications
 
-### 📊 [Interactive Data Visualization Tools](https://github.com/SK-143381/data-viz-tools)
-
-Research and development of novel accessible visualization techniques for complex datasets.
+#### PROJECT 1 (DEVELOPMENT ONGOING)
+📊 Interactive Data Visualization Tools: Research and development of novel accessible visualization techniques for complex datasets.
 [View Repository](https://github.com/xability/a11y_dashboard) | [Live Demo](https://xabilitylab.shinyapps.io/a11y_dashboard/)
 
-### 📱 Accessibility-Focused Virtual Reality Applications
+#### PROJECT 2 (PHASE 1 DEVELOPMENT COMPLETE):
+DIXTRAL: Dynamic Interface eXploration of Three-dimensional Representations for Adaptive Learning
+[View Repository](https://sanchitakamath.com/dixtral/)
 
-### 🔮 [3-D Data Visualization](https://github.com/xability/3d_viz)
-
+#### PROJECT 3 (INITIAL STAGES):
 3-D Data Visualization and Natural Language Processing in Virtual Reality.
 [View Repository](https://github.com/xability/3d_viz)
 
-### 🥊 [VR Boxing Exergame](https://github.com/xability/a11y_vr_boxing_game)
+### [Virtual Reality Development]
 
-Creating VR Boxing Exergame with a focus on accessibility and inclusive design.
-[View Repository](https://github.com/xability/a11y_vr_boxing_game)
+#### PROJECT 4 (DEVELOPMENT COMPLETE):
+🥊 PunchPulse: Creating VR Boxing Exergame with a focus on accessibility and inclusive design.
+[View Repository](https://github.com/xability/punch-pulse)
 
-### 🏓 [VR Table Tennis Game](https://github.com/xability/a11y_vr_exergame)
-
-Creating a VR Table Tennis Game for blind and low-vision users.
+#### PROJECT 5 (DEVELOPMENT COMPLETE):
+🏓 VR Table Tennis Game
 [View Repository](https://github.com/xability/a11y_vr_exergame) | [Research Paper](https://dl.acm.org/doi/pdf/10.1145/3663548.3688526)
