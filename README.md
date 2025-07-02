@@ -71,7 +71,7 @@ I'm proud to contribute to multiple research projects at the (x)ability Design L
 #### PROJECT 2 (PHASE 1 DEVELOPMENT COMPLETE):
 DIXTRAL: Dynamic Interface eXploration of Three-dimensional Representations for Adaptive Learning
 
-[View Repository](https://sanchitakamath.com/dixtral/)
+[View Repository](https://github.com/SK-143381/dixtral) | [Live Demo](https://sanchitakamath.com/dixtral/)
 
 #### PROJECT 3 (INITIAL STAGES):
 3-D Data Visualization and Natural Language Processing in Virtual Reality.
