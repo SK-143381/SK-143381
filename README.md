@@ -19,11 +19,11 @@ My broader research interests span accessible data visualization, multimodal and
               </a>
             </div>
             <a href="https://github.com/xability/a11y_dashboard"><strong>A11y Dashboard</strong></a>: Interactive tools for exploring complex datasets through accessible visualizations  
-            <br><br>Accessible Visualization, Web Analytics
+            <br><br><em>Accessible Visualization</em> · <em>Inclusive HCI</em> · <em>Assistive Technology</em>
           </td>
         </tr>
         <tr>
-          <td align="center"></td>
+          <!-- <td align="center"></td> -->
           <td align="center">
             <a href="https://github.com/xability/a11y_dashboard/stargazers">
               <img src="https://img.shields.io/github/stars/xability/a11y_dashboard?style=social" alt="GitHub stars" height="24">
@@ -43,11 +43,15 @@ My broader research interests span accessible data visualization, multimodal and
               </a>
             </div>
             <a href="https://github.com/xability/punch-pulse"><strong>PunchPulse</strong></a>: A virtual-reality boxing exergame developed with inclusive interaction design principles  
-            <br><br>Virtual Reality, Exergame
+            <br><br><em>Virtual Reality</em> · <em>Serious Games</em> · <em>Accessible Interaction</em>
           </td>
         </tr>
         <tr>
-          <td align="center"></td>
+          <td align="center">
+          <a href="https://dl.acm.org/doi/10.1145/3663547.3746365">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+            </a>
+          </td>
           <td align="center">
             <a href="https://github.com/xability/punch-pulse/stargazers">
               <img src="https://img.shields.io/github/stars/xability/punch-pulse?style=social" alt="GitHub stars" height="24">
@@ -67,11 +71,11 @@ My broader research interests span accessible data visualization, multimodal and
               </a>
             </div>
             <a href="https://github.com/xability/3d_viz"><strong>Immersive Analytics VR</strong></a>: Three-dimensional data visualization and natural-language interaction in virtual reality  
-            <br><br>Virtual Reality, Immersive Analytics
+            <br><br><em>Immersive Analytics</em> · <em>Natural Language Interaction</em> · <em>Virtual Reality</em>
           </td>
         </tr>
         <tr>
-          <td align="center"></td>
+          <!-- <td align="center"></td> -->
           <td align="center">
             <a href="https://github.com/xability/3d_viz/stargazers">
               <img src="https://img.shields.io/github/stars/xability/3d_viz?style=social" alt="GitHub stars" height="24">
@@ -93,12 +97,12 @@ My broader research interests span accessible data visualization, multimodal and
               </a>
             </div>
             <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Data Representation for accessible statistical visualizations  
-            <br><br>Accessibility, Multimodal, Data Visualization
+            <br><br><em>Accessible Visualization</em> · <em>Multimodal Interfaces</em> · <em>Data Accessibility</em>
           </td>
         </tr>
         <tr>
           <td align="center">
-            <a href="https://dl.acm.org/doi/full/10.1145/3613904.3642730">
+            <a href="https://dl.acm.org/doi/10.1145/3663548.3675660">
               <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
             </a>
           </td>
@@ -121,11 +125,11 @@ My broader research interests span accessible data visualization, multimodal and
               </a>
             </div>
             <a href="https://github.com/SK-143381/dixtral"><strong>DIXTRAL</strong></a>: Dynamic interface exploration of three-dimensional representations for adaptive learning  
-            <br><br>3-D Interfaces, Adaptive Learning
+            <br><br><em>3D User Interfaces</em> · <em>Adaptive Learning</em> · <em>Educational Technology</em>
           </td>
         </tr>
         <tr>
-          <td align="center"></td>
+          <!-- <td align="center"></td> -->
           <td align="center">
             <a href="https://github.com/SK-143381/dixtral/stargazers">
               <img src="https://img.shields.io/github/stars/SK-143381/dixtral?style=social" alt="GitHub stars" height="24">
@@ -145,7 +149,7 @@ My broader research interests span accessible data visualization, multimodal and
               </a>
             </div>
             <a href="https://github.com/xability/a11y_vr_exergame"><strong>VR Table Tennis</strong></a>: An accessible virtual-reality table-tennis experience  
-            <br><br>Virtual Reality, Accessibility
+            <br><br><em>Accessible VR</em> · <em>Human–Computer Interaction</em>
           </td>
         </tr>
         <tr>
