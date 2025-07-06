@@ -49,7 +49,7 @@ My broader research interests span accessible data visualization, multimodal and
         <tr>
           <td align="center">
           <a href="https://dl.acm.org/doi/10.1145/3663547.3746365">
-              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="24" height="24" alt="Scholarly Paper">
             </a>
           </td>
           <td align="center">
@@ -77,7 +77,7 @@ My broader research interests span accessible data visualization, multimodal and
         <tr>
           <td align="center">
             <a href="https://dl.acm.org/doi/10.1145/3663548.3675660">
-              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="24" height="24" alt="Scholarly Paper">
             </a>
           </td>
           <td align="center">
@@ -131,7 +131,7 @@ My broader research interests span accessible data visualization, multimodal and
         <tr>
           <td align="center">
             <a href="https://dl.acm.org/doi/pdf/10.1145/3663548.3688526">
-              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="24" height="24" alt="Scholarly Paper">
             </a>
           </td>
           <td align="center">
