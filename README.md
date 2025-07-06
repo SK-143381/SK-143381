@@ -4,6 +4,36 @@ I am a Doctoral Candidate and Graduate Research Assistant in the (x)ability Desi
 
 My broader research interests span accessible data visualization, multimodal and immersive analytics, virtual/augmented reality, and evidence-based accessibility. I employ mixed-methods research methodologies to connect cognitive science theory with practical system design. I am currently seeking internship opportunities for Summer 2026 in user-experience research, multimodal explainable AI, and data-visualization engineering.
 
+---
+
+### Skills
+
+- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
+- **Frameworks & Tools:** React, TensorFlow, Machine-Learning frameworks, Jupyter Notebook, Git
+- **Research Areas:** Human–Computer Interaction, Data Visualization, Virtual Reality
+- **Methodologies:** Mixed-Methods Research
+
+---
+
+### Research Vision and Goals
+
+- Accessible data-visualization paradigms that include users with diverse abilities and needs
+- Immersive technologies designed from the outset for universal access
+- Cognitive-first interface design grounded in empirical evidence
+- Evidence-based accessibility frameworks that treat inclusion as foundational rather than additive
+- Tools and findings that bridge research theory with practice
+
+---
+
+### Activity in the (x)ability Design Lab
+
+- Led the development of 3-D visualization tools for accessible data representation
+- Contributed to multiple repositories addressing accessibility in VR/AR
+- Co-authored several peer-reviewed publications on accessible technology design
+- Ongoing work to integrate accessibility into emerging technologies
+
+---
+
 <table>
   <tr height="300px">
     <!-- Card 1: A11y Dashboard -->
@@ -13,7 +43,7 @@ My broader research interests span accessible data visualization, multimodal and
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/a11y_dashboard">
-                <img src="https://via.placeholder.com/70x50?text=A11y+Dashboard" width="70" height="50" alt="A11y Dashboard"><br>
+                <img src="assets/project_a11y-dashboard.png" width="70" height="50" alt="A11y Dashboard"><br>
               </a>
             </div>
             <a href="https://github.com/xability/a11y_dashboard"><strong>A11y Dashboard</strong></a>: Interactive tools for exploring complex datasets through accessible visualizations  
@@ -37,7 +67,7 @@ My broader research interests span accessible data visualization, multimodal and
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/SK-143381/dixtral">
-                <img src="https://via.placeholder.com/70x50?text=DIXTRAL" width="70" height="50" alt="DIXTRAL"><br>
+                <img src="assets/project_dixtral.jpeg" width="70" height="50" alt="DIXTRAL"><br>
               </a>
             </div>
             <a href="https://github.com/SK-143381/dixtral"><strong>DIXTRAL</strong></a>: Dynamic interface exploration of three-dimensional representations for adaptive learning  
@@ -61,7 +91,7 @@ My broader research interests span accessible data visualization, multimodal and
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/3d_viz">
-                <img src="https://via.placeholder.com/70x50?text=Immersive+VR" width="70" height="50" alt="Immersive Analytics VR"><br>
+                <img src="assets/project-3dviz.jpeg" width="70" height="50" alt="Immersive Analytics VR"><br>
               </a>
             </div>
             <a href="https://github.com/xability/3d_viz"><strong>Immersive Analytics VR</strong></a>: Three-dimensional data visualization and natural-language interaction in virtual reality  
@@ -87,7 +117,7 @@ My broader research interests span accessible data visualization, multimodal and
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/punch-pulse">
-                <img src="https://via.placeholder.com/70x50?text=PunchPulse" width="70" height="50" alt="PunchPulse"><br>
+                <img src="assets/project_punchpulse.jpeg" width="70" height="50" alt="PunchPulse"><br>
               </a>
             </div>
             <a href="https://github.com/xability/punch-pulse"><strong>PunchPulse</strong></a>: A virtual-reality boxing exergame developed with inclusive interaction design principles  
@@ -111,7 +141,7 @@ My broader research interests span accessible data visualization, multimodal and
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/a11y_vr_exergame">
-                <img src="https://via.placeholder.com/70x50?text=VR+Table+Tennis" width="70" height="50" alt="VR Table Tennis"><br>
+                <img src="assets/project_vr-table-tennis.png" width="70" height="50" alt="VR Table Tennis"><br>
               </a>
             </div>
             <a href="https://github.com/xability/a11y_vr_exergame"><strong>VR Table Tennis</strong></a>: An accessible virtual-reality table-tennis experience  
@@ -132,10 +162,6 @@ My broader research interests span accessible data visualization, multimodal and
         </tr>
       </table>
     </td>
-    <!-- Placeholder cell for alignment -->
-    <td></td>
-  </tr>
-  <tr height="300px">
     <!-- Card 6: MAIDR -->
     <td>
       <table>
@@ -143,7 +169,7 @@ My broader research interests span accessible data visualization, multimodal and
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/maidr">
-                <img src="https://via.placeholder.com/70x50?text=MAIDR" width="70" height="50" alt="MAIDR"><br>
+                <img src="assets/project_maidr.jpg" width="70" height="50" alt="MAIDR"><br>
               </a>
             </div>
             <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Data Representation for accessible statistical visualizations  
@@ -172,34 +198,6 @@ My broader research interests span accessible data visualization, multimodal and
 ### GitHub Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SK-143381&theme=github" alt="GitHub Profile Summary" />
-
----
-
-### Skills
-
-- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
-- **Frameworks & Tools:** React, TensorFlow, Machine-Learning frameworks, Jupyter Notebook, Git
-- **Research Areas:** Human–Computer Interaction, Data Visualization, Virtual Reality
-- **Methodologies:** Mixed-Methods Research
-
----
-
-### Research Vision and Goals
-
-- Accessible data-visualization paradigms that include users with diverse abilities and needs
-- Immersive technologies designed from the outset for universal access
-- Cognitive-first interface design grounded in empirical evidence
-- Evidence-based accessibility frameworks that treat inclusion as foundational rather than additive
-- Tools and findings that bridge research theory with practice
-
----
-
-### Activity in the (x)ability Design Lab
-
-- Led the development of 3-D visualization tools for accessible data representation
-- Contributed to multiple repositories addressing accessibility in VR/AR
-- Co-authored several peer-reviewed publications on accessible technology design
-- Ongoing work to integrate accessibility into emerging technologies
 
 ---
 
