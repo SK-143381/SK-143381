@@ -6,34 +6,6 @@ My broader research interests span accessible data visualization, multimodal and
 
 ---
 
-### Skills
-
-- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
-- **Frameworks & Tools:** React, TensorFlow, Machine-Learning frameworks, Jupyter Notebook, Git
-- **Research Areas:** Human–Computer Interaction, Data Visualization, Virtual Reality
-- **Methodologies:** Mixed-Methods Research
-
----
-
-### Research Vision and Goals
-
-- Accessible data-visualization paradigms that include users with diverse abilities and needs
-- Immersive technologies designed from the outset for universal access
-- Cognitive-first interface design grounded in empirical evidence
-- Evidence-based accessibility frameworks that treat inclusion as foundational rather than additive
-- Tools and findings that bridge research theory with practice
-
----
-
-### Activity in the (x)ability Design Lab
-
-- Led the development of 3-D visualization tools for accessible data representation
-- Contributed to multiple repositories addressing accessibility in VR/AR
-- Co-authored several peer-reviewed publications on accessible technology design
-- Ongoing work to integrate accessibility into emerging technologies
-
----
-
 <table>
   <tr height="300px">
     <!-- Card 1: A11y Dashboard -->
@@ -60,25 +32,25 @@ My broader research interests span accessible data visualization, multimodal and
         </tr>
       </table>
     </td>
-    <!-- Card 2: DIXTRAL -->
+    <!-- Card 2: PunchPulse -->
     <td>
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
-              <a href="https://github.com/SK-143381/dixtral">
-                <img src="assets/project_dixtral.jpeg" width="70" height="50" alt="DIXTRAL"><br>
+              <a href="https://github.com/xability/punch-pulse">
+                <img src="assets/project_punchpulse.jpeg" width="70" height="50" alt="PunchPulse"><br>
               </a>
             </div>
-            <a href="https://github.com/SK-143381/dixtral"><strong>DIXTRAL</strong></a>: Dynamic interface exploration of three-dimensional representations for adaptive learning  
-            <br><br>3-D Interfaces, Adaptive Learning
+            <a href="https://github.com/xability/punch-pulse"><strong>PunchPulse</strong></a>: A virtual-reality boxing exergame developed with inclusive interaction design principles  
+            <br><br>Virtual Reality, Exergame
           </td>
         </tr>
         <tr>
           <td align="center"></td>
           <td align="center">
-            <a href="https://github.com/SK-143381/dixtral/stargazers">
-              <img src="https://img.shields.io/github/stars/SK-143381/dixtral?style=social" alt="GitHub stars" height="24">
+            <a href="https://github.com/xability/punch-pulse/stargazers">
+              <img src="https://img.shields.io/github/stars/xability/punch-pulse?style=social" alt="GitHub stars" height="24">
             </a>
           </td>
         </tr>
@@ -110,59 +82,7 @@ My broader research interests span accessible data visualization, multimodal and
     </td>
   </tr>
   <tr height="300px">
-    <!-- Card 4: PunchPulse -->
-    <td>
-      <table>
-        <tr>
-          <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <a href="https://github.com/xability/punch-pulse">
-                <img src="assets/project_punchpulse.jpeg" width="70" height="50" alt="PunchPulse"><br>
-              </a>
-            </div>
-            <a href="https://github.com/xability/punch-pulse"><strong>PunchPulse</strong></a>: A virtual-reality boxing exergame developed with inclusive interaction design principles  
-            <br><br>Virtual Reality, Exergame
-          </td>
-        </tr>
-        <tr>
-          <td align="center"></td>
-          <td align="center">
-            <a href="https://github.com/xability/punch-pulse/stargazers">
-              <img src="https://img.shields.io/github/stars/xability/punch-pulse?style=social" alt="GitHub stars" height="24">
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Card 5: VR Table Tennis -->
-    <td>
-      <table>
-        <tr>
-          <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <a href="https://github.com/xability/a11y_vr_exergame">
-                <img src="assets/project_vr-table-tennis.png" width="70" height="50" alt="VR Table Tennis"><br>
-              </a>
-            </div>
-            <a href="https://github.com/xability/a11y_vr_exergame"><strong>VR Table Tennis</strong></a>: An accessible virtual-reality table-tennis experience  
-            <br><br>Virtual Reality, Accessibility
-          </td>
-        </tr>
-        <tr>
-          <td align="center">
-            <a href="https://dl.acm.org/doi/pdf/10.1145/3663548.3688526">
-              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
-            </a>
-          </td>
-          <td align="center">
-            <a href="https://github.com/xability/a11y_vr_exergame/stargazers">
-              <img src="https://img.shields.io/github/stars/xability/a11y_vr_exergame?style=social" alt="GitHub stars" height="24">
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-    <!-- Card 6: MAIDR -->
+    <!-- Card 4: MAIDR -->
     <td>
       <table>
         <tr>
@@ -190,8 +110,88 @@ My broader research interests span accessible data visualization, multimodal and
         </tr>
       </table>
     </td>
+    <!-- Card 5: DIXTRAL -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/SK-143381/dixtral">
+                <img src="assets/project_dixtral.jpeg" width="70" height="50" alt="DIXTRAL"><br>
+              </a>
+            </div>
+            <a href="https://github.com/SK-143381/dixtral"><strong>DIXTRAL</strong></a>: Dynamic interface exploration of three-dimensional representations for adaptive learning  
+            <br><br>3-D Interfaces, Adaptive Learning
+          </td>
+        </tr>
+        <tr>
+          <td align="center"></td>
+          <td align="center">
+            <a href="https://github.com/SK-143381/dixtral/stargazers">
+              <img src="https://img.shields.io/github/stars/SK-143381/dixtral?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 6: VR Table Tennis -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/xability/a11y_vr_exergame">
+                <img src="assets/project_vr-table-tennis.png" width="70" height="50" alt="VR Table Tennis"><br>
+              </a>
+            </div>
+            <a href="https://github.com/xability/a11y_vr_exergame"><strong>VR Table Tennis</strong></a>: An accessible virtual-reality table-tennis experience  
+            <br><br>Virtual Reality, Accessibility
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3663548.3688526">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/xability/a11y_vr_exergame/stargazers">
+              <img src="https://img.shields.io/github/stars/xability/a11y_vr_exergame?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
+
+---
+
+### Skills
+
+- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
+- **Frameworks & Tools:** React, TensorFlow, Machine-Learning frameworks, Jupyter Notebook, Git
+- **Research Areas:** Human–Computer Interaction, Data Visualization, Virtual Reality
+- **Methodologies:** Mixed-Methods Research
+
+---
+
+### Research Vision and Goals
+
+- Accessible data-visualization paradigms that include users with diverse abilities and needs
+- Immersive technologies designed from the outset for universal access
+- Cognitive-first interface design grounded in empirical evidence
+- Evidence-based accessibility frameworks that treat inclusion as foundational rather than additive
+- Tools and findings that bridge research theory with practice
+
+---
+
+### Activity in the (x)ability Design Lab
+
+- Led the development of 3-D visualization tools for accessible data representation
+- Contributed to multiple repositories addressing accessibility in VR/AR
+- Co-authored several peer-reviewed publications on accessible technology design
+- Ongoing work to integrate accessibility into emerging technologies
 
 ---
 
