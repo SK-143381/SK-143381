@@ -202,9 +202,3 @@ My broader research interests span accessible data visualization, multimodal and
 ### GitHub Profile Summary
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SK-143381&theme=github" alt="GitHub Profile Summary" />
-
----
-
-### Contact
-
-<a href="https://linkedin.com/in/sanchitakamath">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=VIPF0M8AAAAJ&hl=en">Google Scholar</a>
