@@ -15,7 +15,7 @@ My broader research interests span accessible data visualization, multimodal and
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/a11y_dashboard">
-                <img src="assets/project_a11y-dashboard.png" width="70" height="50" alt="A11y Dashboard"><br>
+                <img src="assets/project_a11y-dashboard.png" width="100" height="70" alt="A11y Dashboard"><br>
               </a>
             </div>
             <a href="https://github.com/xability/a11y_dashboard"><strong>A11y Dashboard</strong></a>: Interactive tools for exploring complex datasets through accessible visualizations  
@@ -39,7 +39,7 @@ My broader research interests span accessible data visualization, multimodal and
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/punch-pulse">
-                <img src="assets/project_punchpulse.jpeg" width="70" height="50" alt="PunchPulse"><br>
+                <img src="assets/project_punchpulse.jpeg" width="100" height="70" alt="PunchPulse"><br>
               </a>
             </div>
             <a href="https://github.com/xability/punch-pulse"><strong>PunchPulse</strong></a>: A virtual-reality boxing exergame developed with inclusive interaction design principles  
@@ -60,40 +60,14 @@ My broader research interests span accessible data visualization, multimodal and
         </tr>
       </table>
     </td>
-    <!-- Card 3: Immersive Analytics VR -->
-    <td>
-      <table>
-        <tr>
-          <td width="250px" height="110px" valign="top" colspan="4">
-            <div align="center">
-              <a href="https://github.com/xability/3d_viz">
-                <img src="assets/project-3dviz.jpeg" width="70" height="50" alt="Immersive Analytics VR"><br>
-              </a>
-            </div>
-            <a href="https://github.com/xability/3d_viz"><strong>Immersive Analytics VR</strong></a>: Three-dimensional data visualization and natural-language interaction in virtual reality  
-            <br><br><em>Immersive Analytics</em> · <em>Natural Language Interaction</em> · <em>Virtual Reality</em>
-          </td>
-        </tr>
-        <tr>
-          <!-- <td align="center"></td> -->
-          <td align="center">
-            <a href="https://github.com/xability/3d_viz/stargazers">
-              <img src="https://img.shields.io/github/stars/xability/3d_viz?style=social" alt="GitHub stars" height="24">
-            </a>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr height="300px">
-    <!-- Card 4: MAIDR -->
+    <!-- Card 3: MAIDR -->
     <td>
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/maidr">
-                <img src="assets/project_maidr.jpg" width="70" height="50" alt="MAIDR"><br>
+                <img src="assets/project_maidr.jpg" width="100" height="70" alt="MAIDR"><br>
               </a>
             </div>
             <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Data Representation for accessible statistical visualizations  
@@ -114,14 +88,16 @@ My broader research interests span accessible data visualization, multimodal and
         </tr>
       </table>
     </td>
-    <!-- Card 5: DIXTRAL -->
+    </tr>
+  <tr height="300px">
+    <!-- Card 4: DIXTRAL -->
     <td>
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/SK-143381/dixtral">
-                <img src="assets/project_dixtral.jpeg" width="70" height="50" alt="DIXTRAL"><br>
+                <img src="assets/project_dixtral.jpeg" width="100" height="70" alt="DIXTRAL"><br>
               </a>
             </div>
             <a href="https://github.com/SK-143381/dixtral"><strong>DIXTRAL</strong></a>: Dynamic interface exploration of three-dimensional representations for adaptive learning  
@@ -138,14 +114,14 @@ My broader research interests span accessible data visualization, multimodal and
         </tr>
       </table>
     </td>
-    <!-- Card 6: VR Table Tennis -->
+    <!-- Card 5: VR Table Tennis -->
     <td>
       <table>
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
               <a href="https://github.com/xability/a11y_vr_exergame">
-                <img src="assets/project_vr-table-tennis.png" width="70" height="50" alt="VR Table Tennis"><br>
+                <img src="assets/project_vr-table-tennis.png" width="100" height="70" alt="VR Table Tennis"><br>
               </a>
             </div>
             <a href="https://github.com/xability/a11y_vr_exergame"><strong>VR Table Tennis</strong></a>: An accessible virtual-reality table-tennis experience  
@@ -161,6 +137,30 @@ My broader research interests span accessible data visualization, multimodal and
           <td align="center">
             <a href="https://github.com/xability/a11y_vr_exergame/stargazers">
               <img src="https://img.shields.io/github/stars/xability/a11y_vr_exergame?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 6: Immersive Analytics VR -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/xability/3d_viz">
+                <img src="assets/project-3dviz.jpeg" width="100" height="70" alt="Immersive Analytics VR"><br>
+              </a>
+            </div>
+            <a href="https://github.com/xability/3d_viz"><strong>Immersive Analytics VR</strong></a>: Three-dimensional data visualization and natural-language interaction in virtual reality  
+            <br><br><em>Immersive Analytics</em> · <em>Natural Language Interaction</em> · <em>Virtual Reality</em>
+          </td>
+        </tr>
+        <tr>
+          <!-- <td align="center"></td> -->
+          <td align="center">
+            <a href="https://github.com/xability/3d_viz/stargazers">
+              <img src="https://img.shields.io/github/stars/xability/3d_viz?style=social" alt="GitHub stars" height="24">
             </a>
           </td>
         </tr>
