@@ -1,91 +1,208 @@
-# Hi! I'm Sanchita Kamath 👋
+## Hi there, I am [Sanchita Kamath](https://linkedin.com/in/sanchitakamath)
 
-I'm a Doctoral Candidate and Graduate Research Assistant at the (x)ability Design Lab dedicated to creating inclusive technologies through research at the intersection of Human-Computer Interaction, Cognitive Science, and Data Visualization.
+I am a Doctoral Candidate and Graduate Research Assistant in the (x)ability Design Lab at the University of Illinois Urbana-Champaign. My work examines the intersection of Human–Computer Interaction, Cognitive Science, and Data Visualization with the goal of advancing inclusive technologies. In particular, I design, build, and evaluate systems that enable people with disabilities to engage with complex data and with emerging immersive platforms such as virtual and augmented reality.
 
-I am actively seeking UX research, Multimodal XAI and Data Visualization internships for Summer of 2026.
+My broader research interests span accessible data visualization, multimodal and immersive analytics, virtual/augmented reality, and evidence-based accessibility. I employ mixed-methods research methodologies to connect cognitive science theory with practical system design. I am currently seeking internship opportunities for Summer 2026 in user-experience research, multimodal explainable AI, and data-visualization engineering.
 
-## About Me
-<img src="https://github.com/user-attachments/assets/e06b5dc6-acde-4dc7-bc99-17f8f7595f67" alt="octocat" width="150"/>
+<table>
+  <tr height="300px">
+    <!-- Card 1: A11y Dashboard -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/xability/a11y_dashboard">
+                <img src="https://via.placeholder.com/70x50?text=A11y+Dashboard" width="70" height="50" alt="A11y Dashboard"><br>
+              </a>
+            </div>
+            <a href="https://github.com/xability/a11y_dashboard"><strong>A11y Dashboard</strong></a>: Interactive tools for exploring complex datasets through accessible visualizations  
+            <br><br>Accessible Visualization, Web Analytics
+          </td>
+        </tr>
+        <tr>
+          <td align="center"></td>
+          <td align="center">
+            <a href="https://github.com/xability/a11y_dashboard/stargazers">
+              <img src="https://img.shields.io/github/stars/xability/a11y_dashboard?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 2: DIXTRAL -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/SK-143381/dixtral">
+                <img src="https://via.placeholder.com/70x50?text=DIXTRAL" width="70" height="50" alt="DIXTRAL"><br>
+              </a>
+            </div>
+            <a href="https://github.com/SK-143381/dixtral"><strong>DIXTRAL</strong></a>: Dynamic interface exploration of three-dimensional representations for adaptive learning  
+            <br><br>3-D Interfaces, Adaptive Learning
+          </td>
+        </tr>
+        <tr>
+          <td align="center"></td>
+          <td align="center">
+            <a href="https://github.com/SK-143381/dixtral/stargazers">
+              <img src="https://img.shields.io/github/stars/SK-143381/dixtral?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 3: Immersive Analytics VR -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/xability/3d_viz">
+                <img src="https://via.placeholder.com/70x50?text=Immersive+VR" width="70" height="50" alt="Immersive Analytics VR"><br>
+              </a>
+            </div>
+            <a href="https://github.com/xability/3d_viz"><strong>Immersive Analytics VR</strong></a>: Three-dimensional data visualization and natural-language interaction in virtual reality  
+            <br><br>Virtual Reality, Immersive Analytics
+          </td>
+        </tr>
+        <tr>
+          <td align="center"></td>
+          <td align="center">
+            <a href="https://github.com/xability/3d_viz/stargazers">
+              <img src="https://img.shields.io/github/stars/xability/3d_viz?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr height="300px">
+    <!-- Card 4: PunchPulse -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/xability/punch-pulse">
+                <img src="https://via.placeholder.com/70x50?text=PunchPulse" width="70" height="50" alt="PunchPulse"><br>
+              </a>
+            </div>
+            <a href="https://github.com/xability/punch-pulse"><strong>PunchPulse</strong></a>: A virtual-reality boxing exergame developed with inclusive interaction design principles  
+            <br><br>Virtual Reality, Exergame
+          </td>
+        </tr>
+        <tr>
+          <td align="center"></td>
+          <td align="center">
+            <a href="https://github.com/xability/punch-pulse/stargazers">
+              <img src="https://img.shields.io/github/stars/xability/punch-pulse?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Card 5: VR Table Tennis -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/xability/a11y_vr_exergame">
+                <img src="https://via.placeholder.com/70x50?text=VR+Table+Tennis" width="70" height="50" alt="VR Table Tennis"><br>
+              </a>
+            </div>
+            <a href="https://github.com/xability/a11y_vr_exergame"><strong>VR Table Tennis</strong></a>: An accessible virtual-reality table-tennis experience  
+            <br><br>Virtual Reality, Accessibility
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://dl.acm.org/doi/pdf/10.1145/3663548.3688526">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/xability/a11y_vr_exergame/stargazers">
+              <img src="https://img.shields.io/github/stars/xability/a11y_vr_exergame?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <!-- Placeholder cell for alignment -->
+    <td></td>
+  </tr>
+  <tr height="300px">
+    <!-- Card 6: MAIDR -->
+    <td>
+      <table>
+        <tr>
+          <td width="250px" height="110px" valign="top" colspan="4">
+            <div align="center">
+              <a href="https://github.com/xability/maidr">
+                <img src="https://via.placeholder.com/70x50?text=MAIDR" width="70" height="50" alt="MAIDR"><br>
+              </a>
+            </div>
+            <a href="https://github.com/xability/maidr"><strong>MAIDR</strong></a>: Multimodal Access and Interactive Data Representation for accessible statistical visualizations  
+            <br><br>Accessibility, Multimodal, Data Visualization
+          </td>
+        </tr>
+        <tr>
+          <td align="center">
+            <a href="https://dl.acm.org/doi/full/10.1145/3613904.3642730">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png" width="18px" alt="Paper">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/xability/maidr/stargazers">
+              <img src="https://img.shields.io/github/stars/xability/maidr?style=social" alt="GitHub stars" height="24">
+            </a>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I'm developing accessible visualization tools that empower users with disabilities to interact with complex data
-- 🎓 As a Ph.D. candidate in Information Sciences at UIUC, I investigate how innovative interfaces can transform accessibility
-- 🌟 My research aims to bridge accessibility gaps in emerging technologies like AR/VR for education and data exploration
-- 🧠 I'm passionate about using cognitive science principles to design more intuitive and inclusive digital experiences
-- ⚡ My goal is to advance the field of accessible computing through both theoretical frameworks and practical applications
+---
 
-## Connect with me:
+### GitHub Profile Summary
 
-<p align="left">
-<a href="https://linkedin.com/in/sanchitakamath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanchitakamath" height="30" width="40" /></a>
-<a href="https://scholar.google.com/citations?user=VIPF0M8AAAAJ&hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlescholar.svg" alt="Google Scholar" height="30" width="40" /></a>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SK-143381&theme=github" alt="GitHub Profile Summary" />
 
-## Skills
+---
 
-- **Languages**: Python, Java, JavaScript, HTML/CSS, SQL
-- **Frameworks/Tools**: React, TensorFlow, ML Frameworks, Jupyter Notebook, Git
-- **Research Areas**: Human-Computer Interaction, Data Visualization, Virtual Reality
-- **Mixed Methods Research**
+### Skills
 
-## Research & Development Activity
+- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
+- **Frameworks & Tools:** React, TensorFlow, Machine-Learning frameworks, Jupyter Notebook, Git
+- **Research Areas:** Human–Computer Interaction, Data Visualization, Virtual Reality
+- **Methodologies:** Mixed-Methods Research
 
-<p>
-My work spans both academic research and practical development, focusing on technologies that bridge theoretical advancements with real-world applications.
-</p>
+---
 
-<p>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SK-143381&theme=github" />
-</p>
+### Research Vision and Goals
 
-## Research Vision & Goals
+- Accessible data-visualization paradigms that include users with diverse abilities and needs
+- Immersive technologies designed from the outset for universal access
+- Cognitive-first interface design grounded in empirical evidence
+- Evidence-based accessibility frameworks that treat inclusion as foundational rather than additive
+- Tools and findings that bridge research theory with practice
 
-<p>
-My research is driven by a commitment to make digital experiences accessible to everyone, with particular focus on:
+---
 
-- 🎯 **Accessible Data Visualization**: Creating novel visualization paradigms that are inclusive of users with diverse abilities and needs
-- 🌐 **Immersive Technologies for All**: Pushing boundaries of AR/VR accessibility to ensure these emerging platforms are designed with everyone in mind
-- 🧩 **Cognitive-First Design**: Applying cognitive science principles to understand how diverse users perceive and interact with technology
-- 📊 **Evidence-Based Accessibility**: Developing empirically validated frameworks that transform accessibility from an afterthought to a foundational element
-- 🤝 **Bridging Research and Practice**: Creating tools that can be practically implemented while advancing theoretical knowledge
-</p>
+### Activity in the (x)ability Design Lab
 
-## Organization Activity - (x)ability Design Lab
+- Led the development of 3-D visualization tools for accessible data representation
+- Contributed to multiple repositories addressing accessibility in VR/AR
+- Co-authored several peer-reviewed publications on accessible technology design
+- Ongoing work to integrate accessibility into emerging technologies
 
-<p>
-I'm proud to contribute to multiple research projects at the (x)ability Design Lab, where we focus on creating accessible technologies:
+---
 
-- 🧪 Led development of 3D visualization tools for accessible data representation
-- 🔍 Contributed to 3 repositories focused on accessibility in VR/AR experiences
-- 📝 Co-authored 4+ research papers on accessible technology design
-- 🚀 Working to transform how accessibility is integrated into emerging technologies
-</p>
+### Contact
 
-## Featured Projects
-### 📱 Developed Applications
-
-#### PROJECT 1 (DEVELOPMENT ONGOING)
-📊 Interactive Data Visualization Tools: Research and development of novel accessible visualization techniques for complex datasets.
-
-[View Repository](https://github.com/xability/a11y_dashboard) | [Live Demo](https://xabilitylab.shinyapps.io/a11y_dashboard/)
-
-#### PROJECT 2 (PHASE 1 DEVELOPMENT COMPLETE):
-DIXTRAL: Dynamic Interface eXploration of Three-dimensional Representations for Adaptive Learning
-
-[View Repository](https://github.com/SK-143381/dixtral) | [Live Demo](https://sanchitakamath.com/dixtral/)
-
-#### PROJECT 3 (INITIAL STAGES):
-3-D Data Visualization and Natural Language Processing in Virtual Reality.
-
-[View Repository](https://github.com/xability/3d_viz)
-
-### 🥽 Virtual Reality Development
-
-#### PROJECT 4 (DEVELOPMENT COMPLETE):
-🥊 PunchPulse: Creating VR Boxing Exergame with a focus on accessibility and inclusive design.
-
-[View Repository](https://github.com/xability/punch-pulse)
-
-#### PROJECT 5 (DEVELOPMENT COMPLETE):
-🏓 VR Table Tennis Game
-
-[View Repository](https://github.com/xability/a11y_vr_exergame) | [Research Paper](https://dl.acm.org/doi/pdf/10.1145/3663548.3688526)
+<a href="https://linkedin.com/in/sanchitakamath">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=VIPF0M8AAAAJ&hl=en">Google Scholar</a>
