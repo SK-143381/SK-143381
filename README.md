@@ -1,8 +1,8 @@
 ## Hi there, I am [Sanchita Kamath](https://linkedin.com/in/sanchitakamath)
 
-I am a Doctoral Candidate and Graduate Research Assistant in the (x)ability Design Lab at the University of Illinois Urbana-Champaign. My work examines the intersection of Human–Computer Interaction, Cognitive Science, and Data Visualization with the goal of advancing inclusive technologies. In particular, I design, build, and evaluate systems that enable people with disabilities to engage with complex data and with emerging immersive platforms such as virtual and augmented reality.
+I am a Ph.D. Candidate and Graduate Research Assistant in the (x)ability Design Lab at the University of Illinois Urbana-Champaign. My work examines the intersection of Human–Computer Interaction, Cognitive Science, and Data Visualization with the goal of advancing inclusive technologies. In particular, I design, build, and evaluate systems that enable people with disabilities to engage with complex data and with emerging immersive platforms such as virtual and augmented reality.
 
-My broader research interests span accessible data visualization, multimodal and immersive analytics, virtual/augmented reality, and evidence-based accessibility. I employ mixed-methods research methodologies to connect cognitive science theory with practical system design. I am currently seeking internship opportunities for Summer 2026 in user-experience research, multimodal explainable AI, and data-visualization engineering.
+My broader research interests span accessible data visualization, multimodal and immersive analytics, virtual/augmented reality, and evidence-based accessibility. I employ mixed-methods research methodologies to connect cognitive science theory with practical system design. I am currently **seeking internship opportunities for Summer 2026** in user-experience research, multimodal explainable AI, and data-visualization engineering.
 
 ---
 
