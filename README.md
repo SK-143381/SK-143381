@@ -171,15 +171,6 @@ My broader research interests span accessible data visualization, multimodal and
 
 ---
 
-### Skills
-
-- **Languages:** Python, Java, JavaScript, HTML/CSS, SQL
-- **Frameworks & Tools:** React, TensorFlow, Machine-Learning frameworks, Jupyter Notebook, Git
-- **Research Areas:** Human–Computer Interaction, Data Visualization, Virtual Reality
-- **Methodologies:** Mixed-Methods Research
-
----
-
 ### Research Vision and Goals
 
 - Accessible data-visualization paradigms that include users with diverse abilities and needs
