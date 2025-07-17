@@ -181,7 +181,7 @@ My broader research interests span accessible data visualization, multimodal and
 
 ---
 
-### Activity in the (x)ability Design Lab
+### Activity in the (x)Ability Design Lab as a Ph.D. Candidate and Graduate Research Assistant
 
 - Led the development of 3-D visualization tools for accessible data representation
 - Contributed to multiple repositories addressing accessibility in VR/AR
