@@ -43,7 +43,7 @@ My broader research interests span accessible data visualization, multimodal and
               </a>
             </div>
             <a href="https://github.com/xability/punch-pulse"><strong>PunchPulse</strong></a>: A virtual-reality boxing exergame developed with inclusive interaction design principles  
-            <br><br><em>Virtual Reality</em> · <em>Serious Games</em> · <em>Accessible Interaction</em>
+            <br><br><em>Virtual Reality</em> · <em>Serious Games</em> · <em>Accessible Interaction</em> · <em>Physical Activity Amelioration</em>
           </td>
         </tr>
         <tr>
