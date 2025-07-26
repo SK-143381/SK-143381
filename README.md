@@ -100,7 +100,7 @@ My research interests span accessible data visualization, multimodal and immersi
                 <img src="assets/project_dixtral.jpeg" width="100" height="70" alt="DIXTRAL"><br>
               </a>
             </div>
-            <a href="https://github.com/SK-143381/dixtral"><strong>DIXTRAL</strong></a>: Dynamic interface exploration of three-dimensional representations for adaptive learning  
+            <a href="https://github.com/SK-143381/dixtral"><strong>DIXTRAL</strong></a>: Dynamic Interface Exploration of Three-Dimensional Representations for Adaptive Learning  
             <br><br><em>3D User Interfaces</em> · <em>Adaptive Learning</em> · <em>Educational Technology</em>
           </td>
         </tr>
