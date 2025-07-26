@@ -176,8 +176,7 @@ My research interests span accessible data visualization, multimodal and immersi
 - Accessible data-visualization paradigms that include users with diverse abilities and needs
 - Immersive technologies designed from the outset for universal access
 - Cognitive-first interface design grounded in empirical evidence
-- Evidence-based accessibility frameworks that treat inclusion as foundational rather than additive
-- Tools and findings that bridge research theory with practice
+- Producing and creating tools that bridge research theory with practice
 
 ---
 
