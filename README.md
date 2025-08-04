@@ -96,7 +96,7 @@ My research interests span accessible data visualization, multimodal and immersi
         <tr>
           <td width="250px" height="110px" valign="top" colspan="4">
             <div align="center">
-              <a href="https://github.com/SK-143381/dixtral">
+              <a href="https://github.com/SK-143381/dixtral-assets2025-demo">
                 <img src="assets/project_dixtral.jpeg" width="100" height="70" alt="DIXTRAL"><br>
               </a>
             </div>
