@@ -186,9 +186,3 @@ My research interests span accessible data visualization, multimodal and immersi
 - Contributed to multiple repositories addressing accessibility in VR/AR
 - Co-authored several peer-reviewed publications on accessible technology design
 - Ongoing work to integrate accessibility into emerging technologies
-
----
-
-### GitHub Profile Summary
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SK-143381&theme=github" alt="GitHub Profile Summary" />
