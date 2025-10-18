@@ -2,7 +2,7 @@
 
 I am a Ph.D. Candidate and Mixed Methods UX Researcher affiliated with [(x)ability Design Lab](https://xabilitylab.ischool.illinois.edu/) and [(dis)Ability Design Studio](https://design-studio.illinois.edu/) at the University of Illinois, Urbana-Champaign. My work examines the intersection of Human–Computer Interaction, Cognitive Science, and Data Visualization with the goal of advancing inclusive technologies. In particular, I design, build, and evaluate systems that enable people with visual (dis)abilities to engage with complex three-dimensional data in spatially adaptive interfaces.
 
-My research interest spans accessible data visualization, multimodal and immersive analytics, virtual/augmented reality, and evidence-based accessibility. I employ mixed-methods research methodologies to connect cognitive science theory with practical system design. I am currently **actively seeking internship opportunities for Summer of 2026** in _UX Research, Interaction Design and Multimodal Visualization._
+My research interests span multimodal data visualization and immersive analytics, virtual/augmented reality, and evidence-based accessibility. I employ mixed-methods research methodologies to connect cognitive science theory with practical system design. I am currently **actively seeking internship opportunities for Summer of 2026** in _UX Research, Interaction Design and Multimodal Visualization._
 
 ---
 
