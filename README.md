@@ -118,7 +118,6 @@ My research interests span multimodal data visualization and immersive analytics
         </tr>
       </table>
     </td>
-    </tr>
     <!-- Card 5: VR Table Tennis -->
     <td>
       <table>
