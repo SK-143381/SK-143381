@@ -105,15 +105,20 @@ My research interests span multimodal data visualization and immersive analytics
           </td>
         </tr>
         <tr>
-          <!-- <td align="center"></td> -->
           <td align="center">
-            <a href="https://github.com/SK-143381/dixtral/stargazers">
-              <img src="https://img.shields.io/github/stars/SK-143381/dixtral?style=social" alt="GitHub stars" height="24">
+            <a href="https://arxiv.org/abs/2508.08554">
+              <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png" width="24" height="24" alt="Scholarly Paper">
+            </a>
+          </td>
+          <td align="center">
+            <a href="https://github.com/SK-143381/dixtral-assets2025-demo/stargazers">
+              <img src="https://img.shields.io/github/stars/SK-143381/dixtral-assets2025-demo?style=social" alt="GitHub stars" height="24">
             </a>
           </td>
         </tr>
       </table>
     </td>
+    </tr>
     <!-- Card 5: VR Table Tennis -->
     <td>
       <table>
